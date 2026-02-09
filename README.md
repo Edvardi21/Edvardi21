@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-##I’m currently learning
-
-   #Python
+- 🌱 I’m currently learning ...
+- Python
 <!--
 **Edvardi21/Edvardi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
